@@ -25,5 +25,5 @@ Match the same host you set as Marketing / Developer website if Apple asks for c
 ## Constraints
 
 - No scripts, analytics, web fonts or third-party embeds. Keep it that way.
-- Contact on pages: `support@khaikham.com` (same as ASC Review contact). Open decision: keep that domain vs later `support@punkt1000…` if a domain is registered.
+- Contact on pages: `support@punkt1000.com` (same as ASC Review contact). Open decision: keep that domain vs later `support@punkt1000…` if a domain is registered.
 - Bundle: `com.punkt1000.app`. Storefront: Poland only. Product: offline Tysiąc scorekeeper — not an online card game.
